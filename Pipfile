@@ -9,6 +9,8 @@ numpy = "*"
 matplotlib = "*"
 seaborn = "*"
 scipy = "*"
+tex = "*"
+jupyter = "*"
 
 [dev-packages]
 
